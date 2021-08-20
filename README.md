@@ -1,3 +1,6 @@
+# Django REST Framework Homework
+## 目標：完成一組 API 做到 User 的新增/讀取/刪除
+
 1. Build image. <br />
 `docker build --tag restapi_hw_image .`
 
